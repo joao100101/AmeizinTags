@@ -24,14 +24,14 @@ Plugins necessários para o funcionamento do sistema de tags.
 ### Comandos
 
 | Comando  | Descrição                           |
-| :-------- :----------------------------------- |
-| `/tag` |  Abre o menu de tags                  |
+| :-------- | :----------------------------------- |
+| `/tag`    |  Abre o menu de tags                  |
 
 #### Permissões
 
-| Permissão         | Descrição                        |
-| :---------------- :----------------------------------|
-| `ameizintags.vip` | Acesso as tags marcadas como vip |
+| Permissão         | Descrição                                         |
+| :------------------------------ | :------------------------------------ |
+| `ameizintags.vip`               | Acesso as tags marcadas como vip    |
 | `ameizintags.tag.[nome da tag]` | Garante acesso a uma tag específica |
 
 
