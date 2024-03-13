@@ -1,0 +1,10 @@
+io\github\joao100101\ameizintags\AmeizinTags.class
+io\github\joao100101\ameizintags\listeners\CacheListener.class
+io\github\joao100101\ameizintags\model\Tag.class
+io\github\joao100101\ameizintags\database\service\CacheService.class
+io\github\joao100101\ameizintags\database\SQLite.class
+io\github\joao100101\ameizintags\commands\Comandos.class
+io\github\joao100101\ameizintags\model\UserTag.class
+io\github\joao100101\ameizintags\database\service\impl\Cache.class
+io\github\joao100101\ameizintags\listeners\ChatListeners.class
+io\github\joao100101\ameizintags\menu\TagMenu.class

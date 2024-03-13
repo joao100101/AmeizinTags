@@ -1,0 +1,11 @@
+
+
+java:S1192V"HDefine a constant instead of duplicating this literal "%valor%" 4 times.(º¥Ô†ÿÿÿÿÿ8¤—şÉã1J$46ec8271-819d-495e-819d-af21175e633c
+™
+java:S1192Q"QDefine a constant instead of duplicating this literal "ameizintags.tag." 4 times.(ÙÖ‹ÿÿÿÿÿ8¤—şÉã1J$fcf433eb-6c3e-4681-8158-448e8252770f
+‚
+java:S1854K"?Remove this useless assignment to local variable "tagAnterior".(§€ğ¼8Ê™şÉã1J$bd15a4a5-43af-4dac-ac09-522e076c5d7f
+s
+java:S1481K"0Remove this unused "tagAnterior" local variable.(§€ğ¼8Ë™şÉã1J$c7026f3d-4ec5-499d-8060-7f27b88111b2
+•
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿°ƒ8Õ™şÉã1J$c409220a-6da3-4267-a6c9-f6ef4f38503e

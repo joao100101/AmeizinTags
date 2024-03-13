@@ -1,0 +1,10 @@
+name: AmeizinTags
+version: '${project.version}'
+main: io.github.joao100101.ameizintags.AmeizinTags
+api-version: '1.19'
+softdepend: [Vault, nChat]
+commands:
+  tags:
+    aliases: [tag]
+    usage: /<command>
+    description: Abre o menu de tags

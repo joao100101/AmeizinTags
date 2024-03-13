@@ -1,0 +1,28 @@
+Config:
+    Mensagens:
+      TagAdquirida: "&7Voce acaba de comprar a tag %tag% &7por %valor%! &a(TAG ATIVA)"
+      TagRemovida: "&7Você removeu sua tag."
+      TagVip: "&cEssa tag é exlusiva para vips."
+      FaltaMoney: "&cVocê precisa de mais &4%valor% &cpara comprar essa tag."
+    TamanhoMenu: 3 # Quantidade de linhas no baú (max 6 linhas)
+    Tags:
+      Assassino:
+        slot: 0
+        vip: false
+        item: DIAMOND_SWORD
+        valor: 12000
+        prefixo: "&4[Assassino]&r"
+        lore:
+          - ''
+          - '&7Compre a tag %prefixo% &7por &a%valor%'
+          - ''
+      Guerreiro:
+        slot: 1
+        vip: false
+        item: DIAMOND_HELMET
+        valor: 25000
+        prefixo: "&3[Guerreiro]&r"
+        lore:
+          - ''
+          - '&7Compre a tag %prefixo% &7por %valor%'
+          - ''
